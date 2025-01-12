@@ -5,5 +5,3 @@ pandas
 pydantic
 matplotlib
 seaborn
-base64
-itertools
